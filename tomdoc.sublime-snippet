@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+# ${1:Public}: ${2:Duplicate some text an arbitrary number of times}.
+#
+# ${3:text} - ${4:The String to be duplicated}.
+# ${5:count} - ${6:The Integer number of times to duplicate the text}.
+#
+# Examples
+#
+#   ${7:multiplex}(${8:'Tom', 4})
+#   # => ${9:'TomTomTomTom'}
+#
+# ${10:Returns the duplicated String}.
+]]></content>
+  <tabTrigger>tom</tabTrigger>
+</snippet>
